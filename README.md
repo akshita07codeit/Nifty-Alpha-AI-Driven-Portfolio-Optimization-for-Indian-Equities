@@ -49,6 +49,8 @@ The models were evaluated over a simulated 5-year investment window using a base
 * **Linear Regression Ending Equity:** ₹119.28
 * **LSTM Ending Equity:** ₹164.07 (Highest Sharpe Ratio: 0.0667)
 
+![Nifty-Alpha 5-Year Simulation Results](simulation_results.png)
+
 The Long Short-Term Memory network significantly outperformed classical statistical models by successfully capturing non-linear temporal dependencies within the Nifty dataset.
 
 ## Built With
